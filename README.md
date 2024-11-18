@@ -1,7 +1,7 @@
 ![Top Image](https://virtualrecreation.co.uk/site/templates/images/top-slope-d.png)
 
 <h1 align="center">Hi 👋, I'm Usama Maqsood</h1>
-<h3 align="center">I'm Experienced Flutter developer with 5+ years of success, leading FYP projects and deploying 30+ apps. Skilled in team leadership and committed to innovation and project success.</h3>
+<h3 align="center">Experienced and passionate mobile and web tech enthusiast with over 5 years of expertise in app development, with a focus on Flutter. Proficient in analysing app requirements, selecting appropriate architectures (MVVM, Bloc/Provider pattern), and designing interactive interfaces for various platforms. Skilled in maintaining native performance, utilizing tools like Dart dev tools, Android profiler, and XCode instruments. Well-versed in implementing diverse features such as RESTful services, Firebase integration, QR code scanning, payment gateways, real-time applications, offline data storage, and synchronization. Additionally, experienced in leading Freelancing projects and successfully deploying 30+ apps. A dedicated team leader with a strong commitment to innovation and ensuring project success.</h3>
 
 <br/>
 
@@ -27,13 +27,13 @@
 ## Skills Overview:
 
 - 🌟 Mobile Maestro: Over 4 years of expertise in Flutter & Dart, with an additional 2 years in Native Java.
-- 💡 Backend Virtuoso: Skilled in SQL, MySQL, SQFLite, Isar, and integrating RESTful APIs seamlessly.
-- 🌐 Web Alchemist: Proficient in HTML, CSS, JavaScript (basic), and Bootstrap for crafting responsive web designs.
-- 🔗 Version Control Ace: Confidently navigating GitHub & GitLab for efficient VCS workflows.
-- 📊 Database Prodigy: Mastery of Firebase, Isar, and SQFLite for robust and scalable data handling.
-- 🎨 Design Visionary: Turning ideas into reality with Figma and Adobe XD.
-- ⚡ State Management Guru: Harnessing the power of GetX and Bloc for high-performance apps.
-- 🚀 Technical Extraordinaire: Proficient in ASO, SEO, Unit Testing, Widget Testing, CI/CD pipelines, and SDK integrations.
+- 💡 Backend Virtuoso: SQL, MySQL, SQFLite, Isar, and Restful APIs.
+- 🌐 Web Alchemist: HTML, CSS, JavaScript (basic), and Bootstrap.
+- 🔗 Version Control Ace: GitHub, GitLab & BitBuket.
+- 📊 Database Prodigy: Firebase, Isar, and SQFLite.
+- 🎨 Design Visionary: Figma, Adobe XD, for graphic design.
+- ⚡ State Management Guru: GetX, Bloc & Provider.
+- 🚀 Technical Extraordinaire: ASO, SEO, Unit Tests, Widget Tests, Jira, CI/CD & SDKs Integration.
 
 
 
