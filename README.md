@@ -1,7 +1,7 @@
 ![Top Image](https://virtualrecreation.co.uk/site/templates/images/top-slope-d.png)
 
 <h1 align="center">Hi 👋, I'm Usama Maqsood</h1>
-<h3 align="center">Experienced and passionate mobile and web tech enthusiast with over 5 years of expertise in app development, with a focus on Flutter. Proficient in analysing app requirements, selecting appropriate architectures (MVVM, Bloc/Provider pattern), and designing interactive interfaces for various platforms. Skilled in maintaining native performance, utilizing tools like Dart dev tools, Android profiler, and XCode instruments. Well-versed in implementing diverse features such as RESTful services, Firebase integration, QR code scanning, payment gateways, real-time applications, offline data storage, and synchronization. Additionally, experienced in leading Freelancing projects and successfully deploying 30+ apps. A dedicated team leader with a strong commitment to innovation and ensuring project success.</h3>
+<h3 align="center">I'm Experienced Mobile Application developer with 5+ years of success, experienced in leading Freelancing projects and successfully deploying 30+ apps. A dedicated team leader with a strong commitment to innovation and ensuring project success.</h3>
 
 <br/>
 
