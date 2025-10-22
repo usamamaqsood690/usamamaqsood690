@@ -1,7 +1,7 @@
 ![Top Image](https://virtualrecreation.co.uk/site/templates/images/top-slope-d.png)
 
 <h1 align="center">Hi 👋, I'm Usama Maqsood</h1>
-<h3 align="center">I'm Experienced Mobile Application developer with 5+ years of success, experienced in leading Freelancing projects and successfully deploying 30+ apps. A dedicated team leader with a strong commitment to innovation and ensuring project success.</h3>
+<h3 align="center">I'm Experienced Mobile Application developer with 7+ years of success, experienced in leading Freelancing projects and successfully deploying 30+ apps. A dedicated team leader with a strong commitment to innovation and ensuring project success.</h3>
 
 <br/>
 
@@ -26,7 +26,7 @@
 
 ## Skills Overview:
 
-- 🌟 Mobile Maestro: Over 4 years of expertise in Flutter & Dart, with an additional 2 years in Native Java.
+- 🌟 Mobile Maestro: Over 5 years of expertise in Flutter & Dart, with an additional 2 years in Native Java.
 - 💡 Backend Virtuoso: SQL, MySQL, SQFLite, Isar, and Restful APIs.
 - 🌐 Web Alchemist: HTML, CSS, JavaScript (basic), and Bootstrap.
 - 🔗 Version Control Ace: GitHub, GitLab & BitBuket.
